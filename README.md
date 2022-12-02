@@ -2,7 +2,7 @@
   <h1>
     Hi there! Im Fabricio Quintas
     </h4><h4>
-  Im currently studying Data Science by my own, and the Accountant Degree in the University of Lomas de Zamora, Argentina.
+  I was a student of Accountant, and Data Science for my own. Now im going to start studying Computer Engineer at Universidad Nacional de Lomas de Zamora, Buenos Aires, Argentina.
   </h4><h4>
   Actively looking for a job ! 
   </h4>
@@ -13,18 +13,14 @@
 
 # About Me
   
-  Im currently a student of Accountant, and for my own im studying Data Science.
+  I consider myself a person of easy learning, and I love to learn every day 
+  
+  At this time, im studying at Codo a Codo 2.0 (state program), Argentina Programa 4.0 (state program) and Platzi:
+      Big Data, Training in Data and Artificial Intelligence, and Backend with Python and Django respectively.
+  
   My major strenghts are in communication, adaptability, team play and critical thinking. Trying to improve others soft skills like storytelling.
   
-# Skills
   
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="75" height="75"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" width="75" height="75"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLserver" width="75" height="75"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" title="Markdown" width="75" height="75"/>&nbsp;
-  </div>
-
 # My Stats
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FabricioQuintas&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
