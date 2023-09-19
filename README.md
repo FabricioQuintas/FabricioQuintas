@@ -4,7 +4,6 @@
     </h4><h4>
   I was a student of Accountant, and Data Science for my own. Now im going to start studying Computer Engineer at Universidad Nacional de Lomas de Zamora, Buenos Aires, Argentina.
   </h4><h4>
-  Actively looking for a job ! 
   </h4>
   <a href="https://www.linkedin.com/in/fabricio-quintas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
