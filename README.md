@@ -2,7 +2,7 @@
   <h1>
     Hi there! Im Fabricio Quintas
     </h4><h4>
-  I was a student of Accountant, and Data Science for my own. Now im going to start studying Computer Engineer at Universidad Nacional de Lomas de Zamora, Buenos Aires, Argentina.
+  I was a student of Accountant, and Data Science for my own. Now im going to start studying Computer Engineer at Universidad Nacional de La Matanza, Buenos Aires, Argentina.
   </h4><h4>
   </h4>
   <a href="https://www.linkedin.com/in/fabricio-quintas/">
